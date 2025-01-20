@@ -1,0 +1,7 @@
+{
+  "name": "My Chemical Company",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/HulaBoop/MyChemicalCompany",
+  "description": "This mod will change the Ship Intro Speech to one of eight My Chemical Romance songs. The song is selected randomly on game load.",
+  "dependencies": []
+}
