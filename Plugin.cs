@@ -13,7 +13,7 @@ namespace MyChemicalCompany
     {
         private const string modGUID = "HulaBoop.MyChemicalCompany";
         private const string modName = "My Chemical Company";
-        private const string modVersion = "1.0.0.0";
+        private const string modVersion = "1.0.0.3";
 
         private readonly Harmony harmony = new Harmony(modGUID);
 
